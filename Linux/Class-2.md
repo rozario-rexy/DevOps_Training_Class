@@ -40,7 +40,7 @@
 
 `grep: Search for text in files.`
 
-`ind: Search for files and directories.`
+`find: Search for files and directories.` `find /home/rexy/ -type d -name  DevOps_Training_Class`
 
 `ps: List running processes.`
 
@@ -98,7 +98,7 @@
 
 `hostname: Display or set the system hostname.`
 
-`shutdown/reboot: Shutdown or restart the system.`
+`shutdown/reboot: Shutdown or restart the system.init 0 for shutdown and init 6 for reboot`
 
 `uname: Display system information.`
 
